@@ -1,2 +1,3 @@
 # HelloWorldForClass
-e
+
+Used for learning git for a class.
